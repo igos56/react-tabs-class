@@ -1,4 +1,4 @@
-#react-tabs-class
+# react-tabs-class
 Технологии:
 - React
 
