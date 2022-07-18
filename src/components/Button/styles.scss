@@ -1,0 +1,10 @@
+.btn {
+    margin-right: 5px;
+    background-color: bisque;
+    padding: 15px;
+    border: none;
+    font-size: 18px;
+    &:hover {
+        background-color: rgb(238, 166, 77);
+    }
+}
